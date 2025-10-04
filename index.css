@@ -1,0 +1,4 @@
+/* index.css (tanpa Tailwind) */
+* { box-sizing: border-box; }
+html, body, #root { height: 100%; }
+body { margin: 0; font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial; background: #fff; }
